@@ -11,7 +11,6 @@ Naddition|usr_9bdf845d-5526-4d91-8d9a-3a71e9d46a7c
 NIKITOS16|usr_d85e19f5-d432-4106-8e87-f9cab17547fa
 notdrlewd|usr_204289ea-eca8-42d7-b38f-c4914f723840
 Nungeok|usr_16bc301d-c6f0-407a-b9c6-9b287c9c6903
-pycckij|usr_4ea1f091-4023-4715-a0c3-0ced56dfdaa4
 qazwsx1502|usr_9c542994-a00f-44eb-a08d-e30f20948879
 Roscomnadzorchan|usr_26cca1a7-5210-496e-8361-3daa38867e4a
 Szendi|usr_aac56eb5-35dc-4eca-8b73-496abf2ac447
